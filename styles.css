@@ -1,0 +1,36 @@
+
+body {
+   background-color: #B3FBDF;
+   background-image: url("https://ae01.alicdn.com/kf/HTB1Qjkmyr5YBuNjSspoq6zeNFXah/Water-Color-Oceanic-Baby-Blue-Marble-backdrop-Vinyl-cloth-High-quality-Computer-print-wall-photography-backgrounds.jpg_640x640.jpg");
+}
+h1 {
+  font-family: 'Handlee', cursive;
+  color: AEFFD5;
+}
+h2 {
+  font-family: 'Handlee', cursive;
+  color: AEFFD5;
+}
+p {
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+}
+img {
+  border-radius: 100px;
+}
+#skiing {
+  transform: rotate(90deg);
+  padding: 50px;
+}
+h1 {
+
+  color: black;
+  font-size: 60px;
+  background-color: B3FBDF;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
